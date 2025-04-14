@@ -1,0 +1,7 @@
+flask
+flatlib
+geopy
+openai
+python-dotenv
+plotly
+fpdf
